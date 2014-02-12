@@ -1,4 +1,4 @@
-/* Anonymous HACK */
+/* Max Salimi */
 var parent=document.getElementsByTagName("html")[0];
 var _body = document.getElementsByTagName('body')[0];
 var _div = document.createElement('div');
